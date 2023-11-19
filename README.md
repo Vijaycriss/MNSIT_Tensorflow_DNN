@@ -19,3 +19,20 @@ Activation_function = 'relu'
 
 Test loss : 0.07, Test accuracy: 97.97%
 
+
+
+Deep Neural Network for Audiobooks_customer_classification
+
+The goal is to write an algorithm that predicts wheather the customers will buy the audiobook again.
+
+Batch_size = 100
+input_size = 10
+output_size = 2
+hidden_layers_size = 50
+hidden_layers = 2
+Activation_function = 'relu'
+
+Test loss : 0.36, Test accuracy: 81.70%
+
+
+
